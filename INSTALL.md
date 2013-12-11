@@ -1,0 +1,3 @@
+Install Drupal for School
+===============
+
