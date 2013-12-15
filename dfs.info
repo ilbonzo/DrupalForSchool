@@ -58,3 +58,28 @@ dependencies[] = views_ui
 ; Webform
 dependencies[] = webform
 
+; ----------
+; Variables
+; ----------
+variables[admin_theme] = 'seven'
+variables[date_api_version] = '7.2'
+variables[date_default_timezone] = 'Europe/Berlin'
+variables[filter_fallback_format] = 'plain_text'
+variables[jquery_update_compression_type] = 'min'
+variables[jquery_update_jquery_cdn] = 'google'
+variables[jquery_update_jquery_version] = '1.7'
+variables[node_admin_theme] = '1'
+variables[node_options_page][0] = 'status'
+variables[pathauto_blog_pattern] = 'blogs/[user:name]'
+variables[pathauto_forum_pattern] = '[term:vocabulary]/[term:name]'
+variables[pathauto_node_pattern] = 'content/[node:title]'
+variables[pathauto_punctuation_hyphen] = 1
+variables[pathauto_taxonomy_term_pattern] = '[term:vocabulary]/[term:name]'
+variables[pathauto_user_pattern] = 'users/[user:name]'
+variables[theme_default] = 'bootstrap'
+variables[user_pictures] = '1'
+variables[user_picture_dimensions] = '1024x1024'
+variables[user_picture_file_size] = '800'
+variables[user_picture_style] = 'thumbnail'
+variables[user_register] = 2
+
