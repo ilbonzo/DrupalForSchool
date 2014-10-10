@@ -1,2 +1,4 @@
+.vagrant
+
 # only profile package
 drupal/*
